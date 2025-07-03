@@ -133,8 +133,8 @@ Set filters before sending:
 
 ## 💬 Support / Contact
 
-- 🔗 [LinkedIn: @Anees](https://linkedin.com/in/yourprofile)  
-- 📧 Email: youremail@example.com  
+- 🔗 [LinkedIn: @Anees]  (https://www.linkedin.com/in/aneessaka)
+- 📧 Email:learnwithideas@gmail.com
 - 🌐 [saka.ai](https://saka.ai) *(coming soon)*
 
 ---
