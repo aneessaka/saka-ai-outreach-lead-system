@@ -3,6 +3,8 @@ AI-powered cold outreach automation system
 
 
 🔍 System Flow
+![Cold Email Lead System Flow](./docs/cold_email_lead_flow.png)
+
 
 1. Scrape leads using Apollo search → Apify actor  
 2. Add scraped leads to Google Sheets  
